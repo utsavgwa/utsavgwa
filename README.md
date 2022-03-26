@@ -10,7 +10,8 @@
 </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/utsavgwa" target="blank"><img src="https://img.shields.io/twitter/follow/utsavgwa?logo=twitter&style=for-the-badge" alt="utsavgwa" />     </a>
+  <a href="https://twitter.com/utsavgwa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/utsavgwa?logo=twitter&style=for-the-badge" alt="utsavgwa" />
+  </a>
 </p>
 
 ____________________________________________________________________________________________________________________________________________
