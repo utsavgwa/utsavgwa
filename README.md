@@ -21,8 +21,6 @@ ________________________________________________________________________________
 - 💬 Ask me about **HTML, CSS, javaScript, React**
 
 - 📫 Reach out me at **utsavgwa@gmail.com**
-
-- ⚡ Fun fact - **I'm currently taking Spanish courses because I hope to visit Spain at the end of the year.**
 ______________________________________________________________________________________________________________________________________________
 
 <h3 align="left">Languages and Tools:</h3>
