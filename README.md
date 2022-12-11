@@ -16,9 +16,7 @@
 
 ____________________________________________________________________________________________________________________________________________
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **HTML, CSS, javaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Java, Data Structures, Algorithms**
 
 - 📫 Reach out me at **utsavgwa@gmail.com**
 ______________________________________________________________________________________________________________________________________________
@@ -62,6 +60,7 @@ ________________________________________________________________________________
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavgwa&show_icons=true&locale=en&layout=compact" alt="utsavgwa" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=utsavgwa&](https://spotify-recently-played-readme.vercel.app/api?user=l0kdknz8e7i8dbhwn0eg2ljtk&width=600)" alt="utsavgwa" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavgwa&" alt="utsavgwa" /></p>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l0kdknz8e7i8dbhwn0eg2ljtk&width=600)
