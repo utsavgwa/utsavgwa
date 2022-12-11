@@ -62,4 +62,6 @@ ________________________________________________________________________________
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavgwa&show_icons=true&locale=en&layout=compact" alt="utsavgwa" /></p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l0kdknz8e7i8dbhwn0eg2ljtk&width={width})
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavgwa&" alt="utsavgwa" /></p>
