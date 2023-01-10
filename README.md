@@ -2,26 +2,25 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Utsav S.</h1>
-<h3 align="center">A front-end developer from India</h3>
+<h1 align="center">Hi 👋, I'm Utsav</h1>
+<h3 align="left">I'm a Software engineer with a passion for building progressive, user-friendly web apps that make a difference.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=utsavgwa&label=Profile%20views&color=0e75b6&style=flat" alt="utsavgwa" /> 
-</p>
+<p align="center">Writing efficient code, creating robust software applications and building innovative websites - that's what I'm passionate about.  <br>
+  My goal is to make technology work for you, so you can focus on what matters most.</p>
+  
+<p align="center">I am skilled with both client-side and server-side development, and I have created user interfaces with HTML, CSS, JavaScript, React, and other web technologies.</p>
 
-<p align="left"> 
-  <a href="https://twitter.com/utsavgwa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/utsavgwa?logo=twitter&style=for-the-badge" alt="utsavgwa" />
-  </a>
-</p>
+______________________________________________________________________________________________
 
-____________________________________________________________________________________________________________________________________________
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Java, Data Structures, Algorithms**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Java, Data Structures and Algorithms**
 
 - 📫 Reach out me at **utsavgwa@gmail.com**
-______________________________________________________________________________________________________________________________________________
 
-<h3 align="left">Languages and Tools:</h3>
+______________________________________________________________________________________________
+
+
+
+## 🧰 Languages and Tools:
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -60,7 +59,15 @@ ________________________________________________________________________________
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavgwa&show_icons=true&locale=en&layout=compact" alt="utsavgwa" /></p>
 
+## 🔥 Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavgwa&" alt="utsavgwa" /></p>
 
-
+## 📻 Spotify Playlist
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l0kdknz8e7i8dbhwn0eg2ljtk&width=600)
+
+## 📊 Contribution Stats
+<img alt="Utsav's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=utsavgwa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=utsavgwa&label=Profile%20views&color=0e75b6&style=flat" alt="utsavgwa" /> 
+</p>
