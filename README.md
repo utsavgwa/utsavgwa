@@ -3,24 +3,33 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Utsav</h1>
-<h3 align="left">I'm a Software engineer with a passion for building progressive, user-friendly web apps that make a difference.</h3>
+<h3 align="left">I'm a Software engineer with a passion for building progressive, user-friendly web apps.</h3>
 
-<p align="center">Writing efficient code, creating robust software applications and building innovative websites - that's what I'm passionate about.  <br>
+<p align="left">Writing efficient code, creating robust software applications and building innovative websites - that's what I'm passionate about.  <br>
   My goal is to make technology work for you, so you can focus on what matters most.</p>
   
-<p align="center">I am skilled with both client-side and server-side development, and I have created user interfaces with HTML, CSS, JavaScript, React, and other web technologies.</p>
+<p align="left">I am skilled with both client-side and server-side development, and I have created user interfaces with HTML, CSS, JavaScript, React.js, and other web technologies.</p>
 
-______________________________________________________________________________________________
+---
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Java, Data Structures and Algorithms**
-
+- 💬 **<ins>Ask me about</ins>**:
+  1. HTML
+  2. CSS
+  3. JavaScript
+  4. API's
+  5. React.js
+  6. Java
+  7. Data Structures
+  8. Algorithms
+  9. Databases
+  10. Servers
 - 📫 Reach out me at **utsavgwa@gmail.com**
+- 🚀 or visit my website: **<a href="https://async27.studio/" target="_blank">https://async27.studio/</a>**
 
-______________________________________________________________________________________________
-
-
+---
 
 ## 🧰 Languages and Tools:
+
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -52,22 +61,27 @@ ________________________________________________________________________________
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
+  </a>  -->
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavgwa&show_icons=true&locale=en&layout=compact" alt="utsavgwa" /></p>
 
+---
+
 ## 🔥 Streak Stats
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavgwa&" alt="utsavgwa" /></p>
 
+---
+
 ## 📻 Spotify Playlist
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l0kdknz8e7i8dbhwn0eg2ljtk&width=600)
 
-## 📊 Contribution Stats
-<img alt="Utsav's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=utsavgwa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<!-- ## 📊 Views
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=utsavgwa&label=Profile%20views&color=0e75b6&style=flat" alt="utsavgwa" /> 
-</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=utsavgwa&label=Profile%20views&color=0e75b6&style=flat" alt="utsavgwa" />
+</p> -->
